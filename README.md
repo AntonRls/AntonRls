@@ -6,7 +6,7 @@
 - Сервис <a href="toshibuvpn ru">Toshibu VPN</a>
 - Игра «<a href="https://vk.com/app51606743">Пояс астероидов</a>» для ПСБ
 - VK Mini App <a href="https://vk.com/app51688072">«Анонимные послания»</a>
-- Своя <a href="https://vk.com/loopgamestudios">студия</a> по разработке игр, и 16 опубликованных игр от её лица
+- Своя <a href="https://vk.com/loopgamestudios">студия</a> по разработке игр, и <a href="https://vk.com/apps?act=apps&gid=187918743">16 опубликованных игр</a> от её лица (Суммарная аудитория: 550 тысяч человек)
 <!--
 **AntonRls/AntonRls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
