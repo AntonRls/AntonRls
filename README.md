@@ -2,9 +2,11 @@
 
 5 лет работаю на <a href="https://kwork.ru/user/antonrlsw2000">фрилансе</a>
 
-Хорошо знаю C#, C++, PHP, Java, Python, люблю разрабатывать Backend, игры, приложения:
-- Разработал сервис <a href="toshibuvpn ru">Toshibu VPN</a>
-- Создал игру «<a href="https://vk.com/app51606743">Пояс астероидов</a>» для ПСБ
+Хорошо знаю C#, C++, PHP, Java, Python. Люблю разрабатывать Backend, игры, приложения. Мои работы:
+- Сервис <a href="toshibuvpn ru">Toshibu VPN</a>
+- Игра «<a href="https://vk.com/app51606743">Пояс астероидов</a>» для ПСБ
+- VK Mini App <a href="https://vk.com/app51688072">«Анонимные послания»</a>
+- 
 <!--
 **AntonRls/AntonRls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
