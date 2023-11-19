@@ -4,7 +4,7 @@
 
 Хорошо знаю C#, C++, PHP, Java, Python, люблю разрабатывать Backend, игры, приложения:
 - Разработал сервис <a href="toshibuvpn ru">Toshibu VPN</a>
-- Создал игру «<a href="">Пояс астероидов</a>» для ПСБ
+- Создал игру «<a href="https://vk.com/app51606743">Пояс астероидов</a>» для ПСБ
 <!--
 **AntonRls/AntonRls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
